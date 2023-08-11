@@ -1,0 +1,11 @@
+.Rodape {
+    background-color: var(--preto);
+    padding: 1.1em 20em;
+    text-align: center;
+}
+
+.Rodape h3 {
+    font-weight: 400;
+    font-size: 18px;
+    color: var(--branco);
+}
